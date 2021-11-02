@@ -1,0 +1,18 @@
+#lema{
+    text-align: center;
+    background-color: seagreen;
+    color:gold;
+    font-family: 'Zen Antique Soft', serif;
+    padding: 10px;
+    }
+    
+    
+
+
+.carousel-item img{
+  display: block;
+  height: 800px;
+  width: fit-content;
+  margin: auto;
+  object-fit: fill;
+ }
